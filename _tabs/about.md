@@ -1,8 +1,7 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About
+icon:fas fa-user
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hello, im a passionate Artificial Intelligence,machine learning,Data and Deep learning enthusiast.
+I enjoy working with data and also exploring different AI models
+I'm continously learning,building projects and sharing knowlegde with my peers
